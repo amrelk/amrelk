@@ -18,12 +18,3 @@
 </p>
 
 [see more](a22verter.md)
-
----
-
-## [Art Portfolio!](art.md)
-
-<p float="center">
-  <img src="img/art_owl_side.jpg" height="300" />
-  <img src="img/art_3dp_vessel.jpg" height="300" />
-</p>
