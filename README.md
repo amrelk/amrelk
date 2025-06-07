@@ -1,6 +1,6 @@
-# Hi, I'm evelyn!
+# Hi, i'm evelyn!
 
-This is a fairly random assortment of interesting things I've done. 
+you can also find me at [evelynmau.de](https://evelynmau.de)
 
 ## [BLDC Speed Controller](a22verter.md)
 
