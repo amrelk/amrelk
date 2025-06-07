@@ -1,6 +1,8 @@
 # Hi, i'm evelyn!
 
-you can also find me at [evelynmau.de](https://evelynmau.de)
+You can also find me at [evelynmau.de](https://evelynmau.de)
+
+Here are some projects that i think are worth mentioning
 
 ## [BLDC Speed Controller](a22verter.md)
 
